@@ -12,7 +12,7 @@ require (
 	github.com/bluele/gcache v0.0.2
 	github.com/corpix/uarand v0.2.0
 	github.com/go-playground/validator/v10 v10.11.0
-	github.com/go-rod/rod v0.106.8
+	github.com/go-rod/rod v0.112.5
 	github.com/gobwas/ws v1.1.0
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/itchyny/gojq v0.12.7
@@ -51,8 +51,8 @@ require (
 	github.com/valyala/fasttemplate v1.2.1
 	github.com/weppos/publicsuffix-go v0.15.1-0.20210928183822-5ee35905bd95
 	github.com/xanzy/go-gitlab v0.68.0
-	github.com/ysmood/gson v0.7.1 // indirect
-	github.com/ysmood/leakless v0.7.0 // indirect
+	github.com/ysmood/gson v0.7.3 // indirect
+	github.com/ysmood/leakless v0.8.0 // indirect
 	go.uber.org/atomic v1.9.0
 	go.uber.org/multierr v1.8.0
 	go.uber.org/ratelimit v0.2.0
